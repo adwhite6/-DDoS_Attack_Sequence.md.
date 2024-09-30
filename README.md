@@ -6,5 +6,4 @@ sequenceDiagram
  participant WebServer
  participant Firewall
 
-
 ```
